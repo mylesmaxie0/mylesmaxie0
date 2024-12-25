@@ -3,7 +3,7 @@
 
 ## Projects
 - <b> osTicket: Creating a Ticketing System for Help Desk </b>
-  - [osTicket: Prerequisites and Installation]()
+  - [osTicket: Prerequisites and Installation](https://github.com/mylesmaxie0/osticket-prereqs)
 
 
 
