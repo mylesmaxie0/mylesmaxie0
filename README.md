@@ -6,7 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/mylesmaxie0/osticket-prereqs)
   - [osTicket: Post-Install Configurations](https://github.com/mylesmaxie0/post-install)
   - [osTicket: Ticketing Simulation](https://github.com/mylesmaxie0/ticket-simulation)
-
+- <b>Setting up Active Directory using Azure Virtual Machines</b>
+  - [Setting Up Active Directory using Azure VMs]()
 
 
 
