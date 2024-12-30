@@ -7,7 +7,7 @@
   - [osTicket: Post-Install Configurations](https://github.com/mylesmaxie0/post-install)
   - [osTicket: Ticketing Simulation](https://github.com/mylesmaxie0/ticket-simulation)
 - <b>Setting up Active Directory using Azure Virtual Machines</b>
-  - [Setting Up Active Directory using Azure VMs]()
+  - [Setting Up Active Directory using Azure VMs](https://github.com/mylesmaxie0/configure-ad/blob/main/README.md)
 
 
 
