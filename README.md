@@ -1,7 +1,7 @@
 # Hello, I'm Miles Maxie
 <a href="https://www.linkedin.com/in/miles-maxie-84b313299/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an Information Technology student at Kennesaw State University with a passion for protecting digital assets and mitigating cyber threats. With a solid foundation in information technology and cybersecurity principles, I am committed to advancing my expertise in securing systems and data. I am actively seeking internship opportunities where I can apply my knowledge, further develop my skills, and contribute to a team dedicated to safeguarding critical digital environments. 
+I am an Information Technology student at Kennesaw State University with a passion for protecting digital assets and mitigating cyber threats. With a solid foundation in information technology and cybersecurity principles, I am committed to advancing my expertise in securing systems and data. I am actively seeking internship opportunities where I can apply my knowledge, further develop my skills, and contribute to a team dedicated to safeguarding critical digital environments.
 
 ## 🛠️ Tools 
  
