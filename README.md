@@ -35,7 +35,7 @@ This project demonstrates how to **integrate LimaCharlie as an EDR solution** to
 ---
 
 ### 🔥 **SIEM Threat Hunting with Splunk**  
-🔹 **Tools Used:** Splunk, Windows Event Logs  
+🔹 **Tools Used:** Splunk, Kail Linux, Atomic Red Team
 🔹 **Key Skills:** Log Analysis, Threat Detection, SIEM Dashboards  
 🔹 **Repository:** [🔗 View Project](#)  
 
