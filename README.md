@@ -25,8 +25,7 @@ This project demonstrates how to **integrate LimaCharlie as an EDR solution** to
 
 - **Deploying LimaCharlie agents** on Windows and Linux endpoints for real-time monitoring.  
 - **Creating automated detection rules** to identify suspicious activities like unauthorized process execution, lateral movement, and privilege escalation.  
-- **Developing Python scripts** to integrate LimaCharlie with **Splunk** for centralized log analysis.  
-- **Configuring automated responses**, such as isolating compromised devices and blocking malicious IPs.  
+- **Configuring automated responses**, such as isolating compromised devices and killing processes.
 
 📌 **Lessons Learned:**  
 - How to **deploy and manage EDR agents** efficiently.  
