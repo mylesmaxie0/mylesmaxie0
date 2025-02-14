@@ -55,7 +55,7 @@ In this project, I simulated **real-world cyberattacks** (Brute Force, Privilege
 ---
 
 ### 🛠️ **Vulnerability Scanning & Remediation**  
-🔹 **Tools Used:** Nmap, Nessus, OpenVAS  
+🔹 **Tools Used:** Nessus, OpenVAS  
 🔹 **Key Skills:** Vulnerability Assessment, Patch Management, Risk Mitigation  
 🔹 **Repository:** [🔗 View Project](#)  
 
