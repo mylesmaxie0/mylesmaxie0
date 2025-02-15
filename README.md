@@ -1,21 +1,22 @@
-# 🚀 Cybersecurity Portfolio - Myles Maxie  
+# Cybersecurity Portfolio - Myles Maxie  
 **Connect with Me** 
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=flat-square&logo=github)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/milesmaxie/)
+
 
 ---
 
-## 🛡️ About Me  
+## About Me  
 
 > 🎓 **Computing Student at University of West Georgia**   
 
 ---
 
-## 📂 Projects  
+## Projects  
 ---
 
-### 🔥 **SOAR & EDR Threat Detection with LimaCharlie**  
+### 🛡️ **SOAR & EDR Threat Detection with LimaCharlie**  🛡️
 🔹 **Tools Used:** LimaCharlie, Python, SOAR Automation  
 🔹 **Key Skills:** Endpoint Detection & Response (EDR), Automated Threat Mitigation, Security Orchestration  
 🔹 **Repository:** [🔗 View Project](#)  
@@ -34,7 +35,7 @@ This project demonstrates how to **integrate LimaCharlie as an EDR solution** to
 
 ---
 
-### 🔥 **SIEM Threat Hunting with Splunk**  
+### 🛡️ **SIEM Threat Hunting with Splunk**  🛡️
 🔹 **Tools Used:** Splunk, Kail Linux, Atomic Red Team
 🔹 **Key Skills:** Log Analysis, Threat Detection, SIEM Dashboards  
 🔹 **Repository:** [🔗 View Project](#)  
@@ -53,7 +54,7 @@ In this project, I simulated **real-world cyberattacks** (Brute Force, Privilege
 
 ---
 
-### 🛠️ **Vulnerability Scanning & Remediation**  
+### 🛠️ **Vulnerability Scanning & Remediation**  🛠️
 🔹 **Tools Used:** Nessus, OpenVAS  
 🔹 **Key Skills:** Vulnerability Assessment, Patch Management, Risk Mitigation  
 🔹 **Repository:** [🔗 View Project](#)  
