@@ -1,7 +1,6 @@
 # Cybersecurity Portfolio - Myles Maxie  
 **Connect with Me** 
 
-![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=flat-square&logo=github)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/milesmaxie/)
 
 
@@ -33,29 +32,9 @@ This project demonstrates how to **integrate LimaCharlie as an EDR solution** to
 - Writing **custom LimaCharlie rules** for proactive threat detection.  
 - Automating incident response using **SOAR playbooks** to reduce reaction time.  
 
----
-
-### 🛡️ **SIEM Threat Hunting with Splunk**  🛡️
-🔹 **Tools Used:** Splunk, Kail Linux, Atomic Red Team
-🔹 **Key Skills:** Log Analysis, Threat Detection, SIEM Dashboards  
-🔹 **Repository:** [🔗 View Project](#)  
-
-📝 **Summary:**  
-In this project, I simulated **real-world cyberattacks** (Brute Force, Privilege Escalation, Lateral Movement) within a Windows environment and **ingested logs into Splunk** for analysis. Using **custom SPL queries**, I was able to:  
-
-- **Detect brute-force login attempts** by analyzing failed authentication logs.  
-- Identify **PowerShell exploitation (Obfuscated scripts, Invoke-Mimikatz activity)**.  
-- Create **SIEM dashboards** to visualize anomalies and security incidents in real time.  
-
-📌 **Lessons Learned:**  
-- Writing **effective Splunk queries (SPL)** for security investigations.  
-- Identifying **MITRE ATT&CK techniques** in event logs.  
-- Enhancing **SIEM automation** for rapid detection of threats.  
-
----
 
 ### 🛠️ **Vulnerability Scanning & Remediation**  🛠️
-🔹 **Tools Used:** Nessus, OpenVAS  
+🔹 **Tools Used:** Nessus
 🔹 **Key Skills:** Vulnerability Assessment, Patch Management, Risk Mitigation  
 🔹 **Repository:** [🔗 View Project](#)  
 
