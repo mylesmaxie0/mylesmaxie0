@@ -18,7 +18,9 @@
 
 ### 🛡️ **SOAR & EDR Threat Detection with LimaCharlie**  🛡️
 🔹 **Tools Used:** LimaCharlie, Python, SOAR Automation  
+
 🔹 **Key Skills:** Endpoint Detection & Response (EDR), Automated Threat Mitigation, Security Orchestration  
+
 🔹 **Repository:** [🔗 View Project](#)  
 
 📝 **Summary:**  
@@ -35,9 +37,13 @@ This project demonstrates how to **integrate LimaCharlie as an EDR solution** to
 ---
 
 ### 🛠️ **Vulnerability Scanning & Remediation**  🛠️
-🔹 **Tools Used:** Nessus
-🔹 **Key Skills:** Vulnerability Assessment, Patch Management, Risk Mitigation  
+🔹 **Tools Used:** Nessus 
+
+🔹 **Key Skills:** Vulnerability Assessment, Patch Management, Risk Mitigation
+
 🔹 **Repository:** [🔗 View Project](#)  
+
+
 
 📝 **Summary:**  
 I conducted **network vulnerability scans** using Nessus and OpenVAS, identifying **critical security flaws** in a simulated enterprise network. The project covered:  
