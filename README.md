@@ -1,19 +1,20 @@
-# Cybersecurity Portfolio - Myles Maxie  
-**Connect with Me** 
+# Hello, I'm Myles 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/milesmaxie/)
 
-
----
-
 ## About Me  
 
-> 🎓 **Computing Student at University of West Georgia**   
+> 🎓 Computing student at West Georgia University 
 
----
+> I have hands-on experience with industry-standard tools such as Splunk, Azure Sentinel, and Nessus, which I have utilized for log analysis, security monitoring, and vulnerability assessment. My knowledge extends to key areas like Incident Response, Network Security, and Vulnerability Management.
+
+> ### Certifications
+> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for--badge&logo=CompTIA&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for--badge&logo=CompTIA&logoColor=white" />
+
 
 ## Projects  
----
+
 
 ### 🛡️ **SOAR & EDR Threat Detection with LimaCharlie**  🛡️
 🔹 **Tools Used:** LimaCharlie, Python, SOAR Automation  
@@ -31,7 +32,7 @@ This project demonstrates how to **integrate LimaCharlie as an EDR solution** to
 - How to **deploy and manage EDR agents** efficiently.  
 - Writing **custom LimaCharlie rules** for proactive threat detection.  
 - Automating incident response using **SOAR playbooks** to reduce reaction time.  
-
+---
 
 ### 🛠️ **Vulnerability Scanning & Remediation**  🛠️
 🔹 **Tools Used:** Nessus
@@ -52,10 +53,5 @@ I conducted **network vulnerability scans** using Nessus and OpenVAS, identifyin
 
 ---
 
-## 🎓 **Certifications & Training**  
 
-📌 **CompTIA Security+**  
-📌 **CompTIA Network (In Progress)+**  
-
----
 
