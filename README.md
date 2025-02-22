@@ -4,7 +4,7 @@
 
 ## About Me  
 
-> 🎓 I'm a Computing student at West Georgia University with a strong passion for Information Technology and IT Security. I thrive on solving complex challenges and am dedicated to expanding my expertise in the field.
+> 🎓 I'm a Computing Major at West Georgia University with a strong passion for Information Technology and IT Security. I thrive on solving complex challenges and am dedicated to expanding my expertise in the field.
 
 
 > ### Certifications
