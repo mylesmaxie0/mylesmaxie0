@@ -4,7 +4,7 @@
 
 ## About Me  
 
-> 🎓 I'm a Computing major at West Georgia University with a strong passion for Information Technology and IT Security. I thrive on solving complex challenges and am dedicated to expanding my expertise in the field.
+> 🎓 Computing major with hands-on experience in system administration, network troubleshooting, and customer service. Skilled in Windows Server, Active Directory, and Group Policy management. Strong foundation in networking, cybersecurity, and cloud technologies.
 
 
 > ### Certifications
