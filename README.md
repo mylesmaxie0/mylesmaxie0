@@ -24,6 +24,7 @@
 
 ## Projects  
 
+### SOAR & EDR Threat Detection with LimaCharlie (In Progress)
 
 
 
