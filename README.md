@@ -26,6 +26,9 @@
 
 ### SOAR & EDR Threat Detection with LimaCharlie (In Progress)
 
+📝 Summary: This project showcases the implementation of LimaCharlie as an EDR solution for detecting and responding to security incidents. It focuses on automated detection and response integration within a SOAR framework.
+
+
 
 
 
