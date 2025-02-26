@@ -27,7 +27,7 @@
 ### SOAR & EDR Threat Detection with LimaCharlie (In Progress)
 
 📝 Summary: This project showcases the implementation of LimaCharlie as an EDR solution for detecting and responding to security incidents. It focuses on automated detection and response integration within a SOAR framework.
-- Tools Used: LimaCharlie, Tines (Workflow Builder), Slack 
+- Tools Used: VMWare, LimaCharlie, Tines (Workflow Builder), Slack 
 - Key Skills: SOAR, EDR, Automated Threat Mitigation.
 - Repository: [🔗 View Project](https://github.com/mylesmaxie0/SOAR-EDR-PROJECT)
 
