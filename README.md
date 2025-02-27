@@ -4,7 +4,7 @@
 
 ## About Me  
 
-> 🎓 I am a Computing major with a passion for analyzing and mitigating cyber threats. I have a solid foundation in IT and cybersecurity principles, as well as real world experience leveraging industry-standard tools like Splunk and Azure Sentinel for log analysis, threat detection, and security monitoring. I am seeking to gain hands-on experience in the security operations domain of cybersecurity and further develop my skills in threat analysis and incident response.
+> 🎓 I am a Computing major with a passion for analyzing and mitigating cyber threats. I have a solid foundation in IT and cybersecurity principles, as well as hands-on experience leveraging industry-standard tools like Splunk and Azure Sentinel for log analysis, threat detection, and security monitoring. I am seeking to gain real world experience in the security operations domain of cybersecurity and further develop my skills in threat analysis and incident response.
 
 
 > ### Certifications
