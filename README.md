@@ -17,7 +17,6 @@
 > <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 > <img src="https://img.shields.io/badge/-Office_365-0078D4?&style=for-the-badge&logo=Microsoft-Office&logoColor=white" />
 > <img src="https://img.shields.io/badge/-Windows OS-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-> <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
 > <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
 > <img src="https://img.shields.io/badge/-Linux (Basic CLI)-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
 > <img src="https://img.shields.io/badge/-Ticketing Systems-0052CC?&style=for-the-badge&&logoColor=white" />
