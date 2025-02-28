@@ -4,7 +4,7 @@
 
 ## About Me  
 
-> 🎓 I am a Computing major with a passion for analyzing and mitigating cyber threats. I have a solid foundation in IT and cybersecurity principles, as well as hands-on experience leveraging industry-standard tools like Splunk and Azure Sentinel for log analysis, threat detection, and security monitoring. I am seeking to gain real world experience in the security operations domain of cybersecurity and further develop my skills in threat analysis and incident response.
+> 🎓 Computing student at West Georgia University with multiple CompTIA certifications, including Security+ and Network+. Actively seeking an IT Help Desk position to apply technical skills and provide effective support.
 
 
 > ### Certifications
@@ -12,13 +12,16 @@
 > <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 > <img src="https://img.shields.io/badge/-Azure%20Fundamentals (In Progress)-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 
-> ### Tools
-> ### SIEM
-> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-
-> ### Endpoint
->  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+> ### Skills and Technologies
+> ### 
+> <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Office_365-0078D4?&style=for-the-badge&logo=Microsoft-Office&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Windows OS-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+> <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Linux (Basic CLI)-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+> <img src="https://img.shields.io/badge/-Jira Ticketing-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Google_Workspace-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
 
 
