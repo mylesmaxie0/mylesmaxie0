@@ -25,7 +25,7 @@
 
 
 ##
-<h2>🖥️ Information Technology Projects🖥</h2>
+<h2> 🖥️ Information Technology Projects 🖥</h2>
 
 - <b> osTicket: Creating a Ticketing System for Help Desk </b>
   - [osTicket: Prerequisites and Installation](https://github.com/mylesmaxie0/osticket-prereqs)
