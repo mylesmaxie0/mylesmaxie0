@@ -4,7 +4,7 @@
 
 ## About Me  
 
-> 🎓 Computing student at West Georgia University with multiple CompTIA certifications, including Security+ and Network+. Actively seeking an IT Help Desk position to apply technical skills and provide effective support.
+> 🎓 Computing Student in University with a strong foundation in computer systems and a passion for helping others. Skilled in troubleshooting hardware and software issues, providing clear explanations to non-technical users, and maintaining a positive attitude under pressure. Eager to apply my knowledge and learn new technologies in an entry-level IT help desk role.
 
 
 > ### Certifications
