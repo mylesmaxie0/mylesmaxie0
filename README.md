@@ -20,20 +20,21 @@
 > <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
 > <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
 > <img src="https://img.shields.io/badge/-Linux (Basic CLI)-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-> <img src="https://img.shields.io/badge/-Jira Ticketing-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Ticketing Systems-0052CC?&style=for-the-badge&&logoColor=white" />
 > <img src="https://img.shields.io/badge/-Google_Workspace-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
 
 
-## Projects  
+##
+<h2>🖥️ Information Technology Projects🖥</h2>
 
-### SOAR & EDR Threat Detection with LimaCharlie (In Progress)
-
-📝 Summary: This project showcases the implementation of LimaCharlie as an EDR solution for detecting and responding to security incidents. It focuses on automated detection and response integration within a SOAR framework.
-- Tools Used: VMWare, LimaCharlie, Tines (Workflow Builder), Slack 
-- Key Skills: SOAR, EDR, Automated Threat Mitigation.
-- Repository: [🔗 View Project](https://github.com/mylesmaxie0/SOAR-EDR-PROJECT)
-
+- <b> osTicket: Creating a Ticketing System for Help Desk </b>
+  - [osTicket: Prerequisites and Installation](https://github.com/mylesmaxie0/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/mylesmaxie0/post-install)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/mylesmaxie0/ticket-simulation)
+ 
+- <b> Microsoft Azure </b>
+  - [Setting Up Active Directory using Azure VMs](https://github.com/mylesmaxie0/configure-ad)   
 
 
 
