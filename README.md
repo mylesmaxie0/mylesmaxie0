@@ -4,7 +4,7 @@
 
 ## About Me  
 
-> 🎓 Computing Student in University with a strong foundation in computer systems and a passion for helping others. Skilled in troubleshooting hardware and software issues, providing clear explanations to non-technical users, and maintaining a positive attitude under pressure. Eager to apply my knowledge and learn new technologies in an entry-level IT help desk role.
+> 🎓 Computing Student in University with a strong foundation in computer systems and a passion for helping others. Skilled in troubleshooting hardware and software issues, providing clear explanations to non-technical users, and maintaining a positive attitude under pressure. Eager to apply my knowledge and learn new technologies in an entry-level IT Support role.
 
 
 > ### Certifications
