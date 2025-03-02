@@ -19,7 +19,6 @@
 > <img src="https://img.shields.io/badge/-Windows OS-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
 > <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
 > <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-> <img src="https://img.shields.io/badge/-Ticketing Systems-0052CC?&style=for-the-badge&&logoColor=white" />
 > <img src="https://img.shields.io/badge/-Google_Workspace-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
 
