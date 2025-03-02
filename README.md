@@ -4,7 +4,7 @@
 
 ## About Me  
 
-> 🎓 Computing Student in University with a strong foundation in computer systems and a passion for helping others. Skilled in troubleshooting hardware and software issues, providing clear explanations to non-technical users, and maintaining a positive attitude under pressure. Eager to apply my knowledge and learn new technologies in an entry-level IT Support role.
+> Entry-level IT enthusiast with a strong foundation in troubleshooting, computer systems, and customer service developed through [e.g., self-study, academic coursework, or personal tech projects]. Proficient in [e.g., Windows/macOS basics, Microsoft Office, or basic hardware setup], with a keen ability to learn new technologies quickly. Passionate about providing excellent user support, solving technical problems, and launching a career in IT Helpdesk support.
 
 
 > ### Certifications
