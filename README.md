@@ -5,7 +5,8 @@
 > Sophomore studying Computing, deeply interested in digital forensics, threat hunting, and incident response. I am enhancing my Security Analyst skills through certifications and practical projects/labs.
 
 ## Cybersecurity Projects
-### [Vulnerability Assessment & Remediation Lab](https://github.com/yourusername/nessus-scanning)
+### 🔍 Vulnerability Assessment & Remediation Lab 🛡️
+🔗 **[Link to Project](https://github.com/yourusername/nessus-scanning)**
 
 **Objective**: This project simulates the process of performing a vulnerability assessment using Nessus on a Windows machine. It involves scanning for known vulnerabilities, missing patches, and misconfigurations, followed by providing actionable remediation steps to strengthen system security and enhance overall protection.
 
