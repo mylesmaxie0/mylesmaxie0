@@ -2,7 +2,7 @@
 
 ## About Me    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/milesmaxie/)
 
-> Sophomore studying Computing, deeply interested in digital forensics, threat hunting, and incident response. I am enhancing my Security Analyst skills through certifications and practical projects/labs.
+> Sophomore studying Computing, interested in digital forensics, threat hunting, and incident response. I am enhancing my Security Analyst skills through certifications and practical projects/labs.
 
 ## Cybersecurity Projects
 ### 🔍 Vulnerability Assessment & Remediation Lab 🛡️
