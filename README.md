@@ -9,7 +9,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Assessment & Remediation          | <a href="https://github.com/mylesmaxie0">🔍Nessus Vulnerability Remediation Lab🛡️</a>|
+| Vulnerability Assessment & Remediation          | <a href="https://github.com/mylesmaxie0/Vulnerability-Assessment-Remediation-Lab/blob/main/README.md">🔍Nessus Vulnerability Remediation Lab🛡️</a>|
 
 
 
