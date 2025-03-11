@@ -26,7 +26,7 @@
 > <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=-the-badge&logo=ubuntu&logoColor=white" />
 
 > #### SIEM
-> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=-the-badge&logo=Microsoft&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Azure_Sentinel-000000?&style=the-badge&logo=Microsoft%20Azure&logoColor=white" />
 > <img src="https://img.shields.io/badge/-Splunk-000000?&style=-the-badge&logo=Splunk&logoColor=white" />
 
 > #### Endpoint
