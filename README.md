@@ -16,25 +16,23 @@
 #
 
 > ### Certifications
-> <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=-the-badge&logo=CompTIA&logoColor=white" />
-> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=-the-badge&logo=CompTIA&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 > ### Skills and Technologies
 > #### Operating Systems
-> <img src="https://img.shields.io/badge/-Windows-0078D4?&style=-the-badge&logo=windows&logoColor=white" />
-> <img src="https://img.shields.io/badge/-macOS-000000?&style=-the-badge&logo=apple&logoColor=white" />
-> <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=-the-badge&logo=ubuntu&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+> <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 > #### SIEM
-> <img src="https://img.shields.io/badge/-Azure_Sentinel-000000?&style=the-badge&logo=Microsoft%20Azure&logoColor=white" />
-> <img src="https://img.shields.io/badge/-Splunk-000000?&style=-the-badge&logo=Splunk&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 
-> #### Endpoint
-> <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=-the-badge&logo=Microsoft&logoColor=white" />
 
 ## 📈 Learning and Growth
 
-I'm continuously improving my skills and expanding my knowledge in cybersecurity. This repository reflects my journey as I work on various hands-on projects, solve real-world problems, and stay updated with the latest cybersecurity trends.
+I'm continuously improving my skills and expanding my knowledge in cybersecurity. This repository reflects my journey as I work on various hands-on projects. 
 
 
 
