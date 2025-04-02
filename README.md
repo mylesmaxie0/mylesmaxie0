@@ -1,9 +1,10 @@
-# Hello, I'm Myles Maxie
+# Hello, I'm Miles Maxie
 
 ### About Me    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/milesmaxie/)
 
- Sophomore studying Computing, interested in digital forensics, threat hunting, and incident response. I am enhancing my Security Analyst skills through certifications and practical projects/labs.
+A Computing university student with a strong interest in Information security, automation, digital forensics, and incident response. Seeking an Internship position as an entry-level cybersecurity analyst. 
+
 
 ## Skills
 
