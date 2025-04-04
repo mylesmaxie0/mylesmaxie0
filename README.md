@@ -1,9 +1,9 @@
 # Hello, I'm Miles Maxie
 
-### About Me    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/milesmaxie/)
+<a href=""><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href=""><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-A Computing university student with a strong interest in Information security, automation, digital forensics, and incident response. Seeking an Internship position as an entry-level cybersecurity analyst. 
+I am a Computing student with a strong interest in Cybersecurity. What excites me most about this field is the constant challenge it presents. Cybersecurity is always evolving, requiring continuous learning and adaptation. I am particularly interested in areas such as security automation, security operations, incident response, and digital forensics. I am currently seeking an internship position as an entry-level cybersecurity analyst to apply my knowledge and gain hands-on experience in these areas.
 
 
 ## Skills
