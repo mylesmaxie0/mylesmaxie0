@@ -3,7 +3,7 @@
 <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-I am a Computing student with a strong interest in Cybersecurity. What excites me most about this field is the constant challenge it presents. Cybersecurity is constantly evolving, requiring continuous learning and adaptation. I am particularly interested in security operations, security engineering, automation, and incident response. I am currently seeking an internship position as an entry-level cybersecurity analyst to apply my knowledge and gain hands-on experience in these areas.
+I am a Computing student with a strong interest in Cybersecurity. What excites me most about this field is the constant challenge it presents. Cybersecurity is constantly evolving, requiring continuous learning and adaptation. I am particularly interested in security operations, digital forensics, and incident response. I am currently seeking an internship position as an entry-level cybersecurity analyst to apply my knowledge and gain hands-on experience in these areas.
 
 
 ## Skills
