@@ -17,8 +17,11 @@ I am a Computing student with a strong interest in Cybersecurity. What excites m
 #
 
 > ### Certifications
-> <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 > <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+> <img src="https://img.shields.io/badge/Azure%20Fundamentals (In Progress)-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+
+
 
 
 ## 📈 Learning and Growth
