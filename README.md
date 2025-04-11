@@ -11,7 +11,7 @@ I am a Computing student with a strong interest in Cybersecurity. What excites m
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Assessment & Remediation          | <a href="https://github.com/mylesmaxie0/Vulnerability-Assessment-Remediation-Lab/blob/main/README.md">🔍Nessus Vulnerability Remediation Lab🛡️</a>|
-|  SIEM Implementation and Log Analysis      | <a href="https://github.com/mylesmaxie0/Vulnerability-Assessment-Remediation-Lab/blob/main/README.md">🛡️Active Directory & Splunk Threat Monitoring Lab (In Progress)🛡️</a>|
+|  SIEM Implementation and Log Analysis      | <a href="https://github.com/mylesmaxie0/Active-Directory-Splunk-Security-Monitoring-Lab">🛡️Active Directory & Splunk Threat Monitoring Lab (In Progress)🛡️</a>|
 
 
 #
