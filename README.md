@@ -24,10 +24,6 @@ I am a Computing student with a strong interest in Cybersecurity. What excites m
 
 
 
-## 📈 Learning and Growth
-
-I'm continuously improving my skills and expanding my knowledge in cybersecurity. This repository reflects my journey as I work on various hands-on projects. 
-
 
 
 
