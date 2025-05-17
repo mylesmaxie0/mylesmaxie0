@@ -3,7 +3,7 @@
 <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-Third-year undergraduate student pursuing a Bachelor of Science in Computing at the University of West Georgia, passionate about cybersecurity with a strong foundation in phishing analysis, log analysis, vulnerability assessment, and network traffic analysis and hands-on experience with tools such as Splunk, Wireshark, Nmap, Nessus, Tcpdump, and Active Directory, complemented by beginner-level Python programming skills.
+Third-year undergraduate student pursuing a Bachelor of Science in Computing at the University of West Georgia, passionate about cybersecurity with a strong foundation in phishing analysis, log analysis, vulnerability assessment, and network traffic analysis and hands-on experience with tools such as Splunk, Wireshark, Nmap, Nessus, Tcpdump, and Active Directory.
 
 
 ## Skills
