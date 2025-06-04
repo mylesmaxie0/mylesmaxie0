@@ -11,8 +11,11 @@ Undergraduate student pursuing a Bachelor of Science in Computing, with a strong
 > <img src="https://img.shields.io/badge/-CCNA (In Progress)-0A66C2?style=for-the-badge&logo=Cisco&logoColor=white" />
 #
 
-### Projects
+### Technical Projects
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|   VLAN Configuration, Inter-VLAN Routing, DHCP, ACLs, Subnetting, Network Troubleshooting | <a href="https://google.com">Enterprise VLAN Network Lab</a>|
 
 
 
