@@ -15,7 +15,7 @@ Undergraduate student pursuing a Bachelor of Science in Computing, with a strong
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|   VLAN Configuration, Inter-VLAN Routing, DHCP, ACLs, Subnetting, Network Troubleshooting | <a href="https://google.com">Enterprise VLAN Network Lab</a>|
+|   VLAN Configuration, Inter-VLAN Routing, DHCP, ACLs, Subnetting, Network Troubleshooting | <a href="https://github.com/mylesmaxie0/Enterprise-VLAN-Network-Lab">Enterprise VLAN Network Lab</a>|
 
 
 
