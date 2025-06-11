@@ -2,7 +2,7 @@
 
 <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Undergraduate student pursuing a Bachelor of Science in Computing, with a strong foundational knowledge of computer hardware, software, and networking, with hands-on experience in Windows environments. Eager to apply technical knowledge in real-world settings and continue building hands-on IT experience.
+Undergraduate student pursuing a Bachelor of Science in Computing, with a strong foundational knowledge of computer hardware, software, and networking. Eager to apply technical knowledge in real-world settings and continue building hands-on IT experience.
 
 > ### Certifications
 > <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
