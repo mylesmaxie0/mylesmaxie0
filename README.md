@@ -2,7 +2,7 @@
 
 <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Undergraduate student pursuing a Bachelor of Science in Computing, with a strong foundational knowledge of computer hardware, software, and networking. Eager to apply technical knowledge in real-world settings and continue building hands-on IT experience.
+I am an undergraduate student at Kennesaw State University pursuing a Bachelor of Science in Information Technology. I have hands-on experience in Active Directory, VLAN configuration, and network protocols (TCP/IP, DHCP, DNS). Certified in CompTIA Security+, Network+. Passionate about applying technical skills and problem-solving skills to support enterprise IT environments through a dynamic internship.
 
 > ### Certifications
 > <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
