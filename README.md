@@ -12,10 +12,8 @@ I am an undergraduate student at Kennesaw State University pursuing a Bachelor o
 
 ### Technical Projects
 
-| Skills                                    | Associated Project         |
+| Skills Learned                                    | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |   VLAN Configuration, Inter-VLAN Routing, DHCP, Subnetting, Network Testing and Troubleshooting | <a href="https://github.com/mylesmaxie0/Enterprise-VLAN-Network-Lab">VLAN and DHCP Network Configuration</a>|
-
-
-
+|Active Directory Management, Network Configuration, Azure Resource Deployment | <a href="https://github.com/mylesmaxie0/Enterprise-VLAN-Network-Lab">Active Directory Deployment on Microsoft Azure</a>|
 
