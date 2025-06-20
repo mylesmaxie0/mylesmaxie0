@@ -2,7 +2,7 @@
 
 <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Motivated and detail-oriented Computing student pursuing a Bachelor of Science in Computing, with a strong foundation in networking, cybersecurity, and IT support. CompTIA Security+ and Network+ certified, demonstrating a solid understanding of secure network infrastructure and troubleshooting. Seeking an IT internship to apply technical skills in a real-world environment and contribute to a dynamic IT team. Proven ability to learn quickly, adapt to new technologies.
+I’m currently working toward my Bachelor of Science in Computing at the University of West Georgia. I’ve earned CompTIA Security+ and Network+ certifications, which have given me a solid foundation in IT fundamentals, security, and networking. I learn new technologies quickly and enjoy solving problems and figuring things out as I go. I’m seeking an IT internship where I can apply my technical skills in a real-world environment and contribute to a dynamic IT team.
 
 ### Certifications
 > <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
