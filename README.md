@@ -15,5 +15,5 @@ I’m currently working toward my Bachelor of Science in Computing at the Univer
 | Skills Learned                                    | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Active Directory Management, Network Configuration, Azure Resource Deployment | <a href="https://github.com/mylesmaxie0/Active-Directory-Deployment-on-Microsoft-Azure">Active Directory Deployment on Microsoft Azure</a>|
-|Ticketing System Workflow | <a href="https://github.com/mylesmaxie0/Active-Directory-Deployment-on-Microsoft-Azure">Help Desk Ticketing System (osTicket)</a>|
+|Ticketing System Workflow | <a href="https://github.com/mylesmaxie0/ticket-simulation">Help Desk Ticketing System (osTicket)</a>|
 
