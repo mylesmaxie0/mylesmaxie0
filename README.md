@@ -14,6 +14,5 @@ I’m currently working toward my Bachelor of Science in Computing at the Univer
 
 | Skills Learned                                    | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|   VLAN Configuration, Inter-VLAN Routing, DHCP, Subnetting, Network Testing and Troubleshooting | <a href="https://github.com/mylesmaxie0/Enterprise-VLAN-Network-Lab">VLAN and DHCP Network Configuration</a>|
 |Active Directory Management, Network Configuration, Azure Resource Deployment | <a href="https://github.com/mylesmaxie0/Active-Directory-Deployment-on-Microsoft-Azure">Active Directory Deployment on Microsoft Azure</a>|
 
