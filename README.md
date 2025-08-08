@@ -12,6 +12,6 @@
 
 | Project                                    | Description        |
 |-----------------------------------------------|----------------------------|
-|VLAN Segmentation & Inter-VLAN Routing Implementation|This project demonstrates network segmentation using VLANs and inter-VLAN routing. This lab implements a router-on-a-stick configuration to enable communication between isolated departmental networks (Sales, IT, HR) while maintaining security boundaries through access control lists.|
+|<a href="https://github.com/mylesmaxie0/Enterprise-VLAN-Network-Lab">VLAN Segmentation & Inter-VLAN Routing Implementation</a>|This project demonstrates network segmentation using VLANs and inter-VLAN routing. This lab implements a router-on-a-stick configuration to enable communication between isolated departmental networks (Sales, IT, HR) while maintaining security boundaries through access control lists.|
 
 
