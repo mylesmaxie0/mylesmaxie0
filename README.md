@@ -10,8 +10,8 @@
 
 ### Technical Projects
 
-| Skills Learned                                    | Associated Project         |
+| Project                                    | Description        |
 |-----------------------------------------------|----------------------------|
-|Active Directory Management, Network Configuration, Azure Resource Deployment | <a href="https://github.com/mylesmaxie0/Active-Directory-Deployment-on-Microsoft-Azure">Active Directory Deployment on Microsoft Azure</a>|
+|VLAN Segmentation & Inter-VLAN Routing Implementation|This project demonstrates network segmentation using VLANs and inter-VLAN routing. This lab implements a router-on-a-stick configuration to enable communication between isolated departmental networks (Sales, IT, HR) while maintaining security boundaries through access control lists.|
 
 
