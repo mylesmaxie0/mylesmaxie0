@@ -1,5 +1,6 @@
 # Hello, I'm Miles Maxie
-I’m a Computing student at the University of West Georgia, determined to break into the field of IT. 
+Computing student at the University of West Georgia, determined to break into the field of IT. 
+
 <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Certifications
