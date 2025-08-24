@@ -1,6 +1,5 @@
 # Hello, I'm Miles Maxie
-I’m a Computing student at the University of West Georgia, determined to break into the field as a Network Engineer. I’m currently building my skills in networking and network automation through hands-on labs and projects. I have earned my CompTIA Security+ and Network+ certifications and plan on obtaining the Cisco CCNA.
-
+I’m a Computing student at the University of West Georgia, determined to break into the field of IT. 
 <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Certifications
