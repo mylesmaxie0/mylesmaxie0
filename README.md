@@ -1,5 +1,5 @@
 # Hello, I'm Miles Maxie
-I’m a Computing student focused on pursuing a career as a Network Engineer. I have developed practical networking skills through hands-on labs and projects and hold CompTIA Security+ and Network+ certifications. I am currently working toward earning my Cisco CCNA to further enhance my knowledge in network design, configuration, and security.
+
 
 <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
