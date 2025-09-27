@@ -12,5 +12,5 @@ I’m currently pursuing a Bachelor's degree in Computing, with a strong interes
 
 ### Technical Projects
 
-
+Coming Soon...
 
