@@ -11,6 +11,11 @@ I’m currently pursuing a Bachelor's degree in Computing, with a strong interes
 
 ### Skills
 > <img src="https://img.shields.io/badge/-Python-0A66C2?style=for-the-badge&logo=Python&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Cisco-0A66C2?style=for-the-badge&logo=Cisco&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Wireshark-005cad?style=for-the-badge&logo=Wireshark&logoColor=white" />
+
+
+
 
 #
 
