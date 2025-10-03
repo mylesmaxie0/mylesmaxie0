@@ -27,5 +27,10 @@ I’m currently pursuing a Bachelor's degree in Computing, with a strong interes
 | [Basic Routing Lab](./labs/basic-routing) | Configured static and dynamic routing (RIP, OSPF) between routers. Includes troubleshooting steps and config files. |
 | [VLAN & Inter-VLAN Routing](./labs/vlan-intervlan) | Implemented VLANs and Inter-VLAN routing using switches and routers. | 
 
+#### 🔹Networking Projects
+
+| Project | Description |
+|--------|-------------|
+| [Company Network Design & Implementation (Coming Soon)](./labs/basic-routing) | This project involves designing and configuring a functional network for a small business using Cisco Packet Tracer. The network includes multiple departments connected via VLANs, inter-VLAN routing, DHCP services, basic security configurations (like port security), and static/default routing between different branches. The goal is to create a reliable, segmented, and secure network that supports communication between all departments while maintaining proper traffic management and device connectivity. |
 
 
