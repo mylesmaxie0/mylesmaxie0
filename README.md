@@ -24,8 +24,8 @@ I’m currently pursuing a Bachelor's degree in Computing, with a strong interes
 
 | Project | Description |
 |--------|-------------|
-| [Multi-VLAN Network Configuration Lab]() | Configured static and dynamic routing (RIP, OSPF) between routers. Includes troubleshooting steps and config files. |
-| [VLAN & Inter-VLAN Routing](./labs/vlan-intervlan) | Implemented VLANs and Inter-VLAN routing using switches and routers. | 
+| [Multi-VLAN Network Configuration Lab](https://github.com/mylesmaxie0/VLANConfiguration) | Implemented VLANs and Inter-VLAN routing using switches and routers. |
+
 
 #### 🔹Networking Projects
 
