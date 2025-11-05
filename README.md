@@ -24,7 +24,7 @@ I’m currently pursuing a Bachelor's degree in Computing, with a strong interes
 
 | Lab | Description |
 |--------|-------------|
-| VLAN Configuration |Learn how to segment a network into multiple Virtual Local Area Networks (VLANs) to improve performance, security, and manageability. This lab covers VLAN creation, port assignment, and trunking basics. |
+| [VLAN Configuration](https://github.com/mylesmaxie0/VLAN-Configuration-Lab) |Learn how to segment a network into multiple Virtual Local Area Networks (VLANs) to improve performance, security, and manageability. This lab covers VLAN creation, port assignment, and trunking basics. |
 | VTP (VLAN Trunking Protocol) |Understand how VTP manages VLAN configurations across multiple switches within the same domain, ensuring consistent VLAN information and reducing manual configuration errors. |
 | EtherChannel |Configure EtherChannel to bundle multiple physical links into a single logical link, increasing bandwidth and providing redundancy between switches or routers. |
 | Inter-VLAN Routing |Set up communication between different VLANs using Layer 3 devices to enable network segmentation with seamless connectivity. |
