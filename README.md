@@ -17,7 +17,9 @@
 ## Skills
 
 **Network Technologies:** Cisco IOS, STP, VLAN Configuration, OSPF, EIGRP, DHCP, DNS, IPv4, IPv6, Wireless Security (WPA2/3, 802.1X), Secure Remote Access  
+
 **Tools:** Wireshark, GNS3, Cisco Packet Tracer
+
 **Security:** Firewalls (Cisco ASA, pfSense)
 
 ---
