@@ -34,7 +34,7 @@
 ## What I’m Currently Learning
 
 - Network Automation with Python and Ansible  
-- Cloud-native networking (Azure)  
+
 ---
 
 ## Connect with Me
