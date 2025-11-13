@@ -4,7 +4,7 @@
 
 I'm passionate about designing, automating, and securing modern network infrastructures.  
 
----
+
 
 ## Projects
 
