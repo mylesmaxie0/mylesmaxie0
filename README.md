@@ -10,18 +10,6 @@
 |----------|--------------|
 | [Networking Labs](https://github.com/yourusername/network-automation-toolkit) | Hands-on labs I’ve completed to build a deeper understanding of computer networking concepts — from basic configurations to advanced routing and security. 
 
-
-
----
-
-## Skills
-
-**Network Technologies:** Cisco IOS, STP, VLAN Configuration, OSPF, EIGRP, DHCP, DNS, IPv4, IPv6, Wireless Security (WPA2/3, 802.1X), Secure Remote Access  
-
-**Tools:** Wireshark, GNS3, Cisco Packet Tracer
-
-**Security:** Firewalls (Cisco ASA, pfSense)
-
 ---
 
 ## Certifications
@@ -35,7 +23,8 @@
 
 ## What I’m Currently Learning
 
-- Network Automation with Python and Ansible  
+- Network Automation with Python and Ansible
+- Cloud Networking
 
 ---
 
