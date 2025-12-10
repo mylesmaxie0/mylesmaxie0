@@ -1,6 +1,6 @@
 # Hi, I'm Myles
 
-**Computing Student at the University of West Georgia | Aspiring Network Engineer**
+**Computing Major at the University of West Georgia**
 
  I’m passionate about creating and securing efficient network systems. I’m currently seeking an internship opportunity where I can apply my technical knowledge, learn from industry professionals, and contribute to impactful networking solutions.
 
