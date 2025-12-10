@@ -10,13 +10,15 @@
 > <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=fo-the-badge&logo=CompTIA&logoColor=white" />
 > <img src="https://img.shields.io/badge/-CCNA (In Progress)-0A66C2?style=fo-the-badge&logo=Cisco&logoColor=white" />
 
-<h2>👨‍💻 Networking & Cybersecurity Projects:</h2>
+<h2>👨‍💻 Technical Projects:</h2>
 
 - <b>OSPF (Open Shortest Path First)</b>
   - [Configuring OSPFv2](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Configuring OSPFv3](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Firewall Configuration</b>
   - [pfSense Firewall Configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Active Directory & Windows Server</b>
+  - [Setting Up Windows Server in Azure VM](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
 ## Connect with Me
 
