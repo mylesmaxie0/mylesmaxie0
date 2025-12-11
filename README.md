@@ -13,7 +13,7 @@
 <h2>👨‍💻 Technical Projects:</h2>
 
 - <b>OSPF (Open Shortest Path First)</b>
-  - [Configuring OSPFv2](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configuring Single Area OSPF](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Configuring Multi-Area OSPF](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>VLANS (Virtual Local Area Networks)</b>
   - [VLAN Configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
