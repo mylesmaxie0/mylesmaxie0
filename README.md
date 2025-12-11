@@ -18,7 +18,7 @@
 - <b>VLANS (Virtual Local Area Networks)</b>
   - [VLAN Configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Inter-VLAN Routing Configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
- - <b>DHCP (Dynamic Host Configuration Protocol)</b>
+- <b>DHCP (Dynamic Host Configuration Protocol)</b>
   - [Configuring DHCP](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Active Directory & Windows Server</b>
   - [Setting Up Windows Server in Azure VM](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
