@@ -13,15 +13,15 @@
 <h2>👨‍💻 Technical Projects:</h2>
 
 - <b>OSPF (Open Shortest Path First)</b>
-  - [Configuring Single Area OSPF](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Configuring Multi-Area OSPF](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configuring Single Area OSPF](https://github.com/mylesmaxie0/Configuring-Single-Area-OSPF/tree/main)
+  - [Configuring Multi-Area OSPF]()
 - <b>VLANS (Virtual Local Area Networks)</b>
-  - [VLAN Configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Inter-VLAN Routing Configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [VLAN Configuration]()
+  - [Inter-VLAN Routing Configuration]()
 - <b>DHCP (Dynamic Host Configuration Protocol)</b>
-  - [Configuring DHCP](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configuring DHCP]()
 - <b>Active Directory & Windows Server</b>
-  - [Setting Up Windows Server in Azure VM](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Setting Up Windows Server in Azure VM]()
  
 ## Connect with Me
 
