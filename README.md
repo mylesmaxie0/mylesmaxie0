@@ -13,10 +13,8 @@
 
 - <b>OSPF (Open Shortest Path First)</b>
   - [Configuring Single Area OSPF (Area 0)](https://github.com/mylesmaxie0/Configuring-Single-Area-OSPF/tree/main)
-  - [Configuring Multi-Area OSPF]()
 - <b>VLANS (Virtual Local Area Networks)</b>
   - [VLAN Configuration]()
-  - [Inter-VLAN Routing Configuration]()
 - <b>DHCP (Dynamic Host Configuration Protocol)</b>
   - [Configuring DHCP]()
 - <b>Active Directory & Windows Server</b>
