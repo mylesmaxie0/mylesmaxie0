@@ -13,12 +13,6 @@
 
 - <b>OSPF (Open Shortest Path First)</b>
   - [Configuring Single Area OSPF (Area 0)](https://github.com/mylesmaxie0/Configuring-Single-Area-OSPF/tree/main)
-- <b>VLANS (Virtual Local Area Networks) with Port Security</b>
-  - [VLAN Configuration]()
-- <b>DHCP (Dynamic Host Configuration Protocol)</b>
-  - [Configuring DHCP]()
-- <b>Active Directory & Windows Server</b>
-  - [Setting Up Windows Server in Azure VM]()
  
 ## Connect with Me
 
