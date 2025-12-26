@@ -15,4 +15,4 @@
   - [Configuring Single Area OSPF (Area 0)](https://github.com/mylesmaxie0/Configuring-Single-Area-OSPF/tree/main)
  
 - <b>Active Directory and Windows Server</b>
-  - [Active Directory Lab](https://github.com/mylesmaxie0/Configuring-Single-Area-OSPF/tree/main)
+  - [Active Directory Lab](https://github.com/mylesmaxie0/Active-Directory-Deployment-on-Microsoft-Azure)
