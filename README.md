@@ -11,11 +11,8 @@
 
 <h2>👨‍💻 Technical Projects:</h2>
 
-- <b>OSPF (Open Shortest Path First)</b>
-  - [Configuring Single Area OSPF (Area 0)](https://github.com/mylesmaxie0/Configuring-Single-Area-OSPF/tree/main)
+- [Configuring Single Area OSPF (Area 0)](https://github.com/mylesmaxie0/Configuring-Single-Area-OSPF/tree/main)
 
-- <b>DHCP (Dynamic Host Configuration Protocol</b>
-  - [How to configure DHCP Server on a switch for different VLANs](https://github.com/mylesmaxie0/Active-Directory-Deployment-on-Microsoft-Azure)
- 
-- <b>Active Directory and Windows Server</b>
-  - [Active Directory Lab](https://github.com/mylesmaxie0/Active-Directory-Deployment-on-Microsoft-Azure)
+- [Three-Tier Architecture Network Design](https://github.com/mylesmaxie0/Active-Directory-Deployment-on-Microsoft-Azure)
+
+- [Active Directory Lab](https://github.com/mylesmaxie0/Active-Directory-Deployment-on-Microsoft-Azure)
