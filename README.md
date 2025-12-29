@@ -1,6 +1,6 @@
 # Hi, I'm Myles
 
-Sophomore Computing student with a strong interest in Information Technology, systems support, and networking. Familiar with troubleshooting, basic networking concepts, and operating systems through coursework and hands-on practice. Seeking an IT internship to gain real-world experience and contribute to technical support and infrastructure teams.	
+Computing student with a strong interest in Information Technology, systems support, and networking. Familiar with troubleshooting, basic networking concepts, and operating systems through coursework and hands-on practice. Seeking an IT internship to gain real-world experience and contribute to technical support and infrastructure teams.	
 
 **Computing Major at the University of West Georgia**
 
