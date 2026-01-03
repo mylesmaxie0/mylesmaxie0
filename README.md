@@ -13,8 +13,8 @@ Computing student with a strong interest in Information Technology, systems supp
 
 <h2>👨‍💻 Technical Projects:</h2>
 
-- [Configuring Single Area OSPF (Area 0)](https://github.com/mylesmaxie0/Configuring-Single-Area-OSPF/tree/main)
-
 - [Three-Tier Architecture Network Design (In Progress)](https://github.com/mylesmaxie0/Active-Directory-Deployment-on-Microsoft-Azure)
+  
+- [Configuring Single Area OSPF (Area 0)](https://github.com/mylesmaxie0/Configuring-Single-Area-OSPF/tree/main)
 
 - [Active Directory Lab](https://github.com/mylesmaxie0/Active-Directory-Deployment-on-Microsoft-Azure)
