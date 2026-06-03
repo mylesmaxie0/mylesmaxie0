@@ -1,10 +1,8 @@
 # Hello, I'm Myles
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A computing student with a strong focus on network engineering, passionate about designing, analyzing, and securing network infrastructure.
-
 ## Objective
-I am building deep expertise in network engineering — from traffic analysis and protocol behavior to network security and infrastructure design. My goal is to join a network-focused team where I can apply hands-on skills in monitoring, troubleshooting, and securing complex network environments.
+CompTIA Network+ and Security+ certified student currently pursuing a Bachelor's degree in Computing. Hands-on experience with routing, switching, IPv4/IPv6 addressing, subnetting, VLANs, OSPF, NAT, ACLs, SSH, and network troubleshooting through EVE-NG lab environments. Strong foundation in network access, IP connectivity, IP services, and security fundamentals, with a focused interest in network engineering, infrastructure support, and enterprise networking technologies.
 
 ### Certifications
 <div>
