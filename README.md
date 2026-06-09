@@ -2,7 +2,7 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
-Computing student with active CompTIA Network+ and Security+ certifications and hands-on experience configuring and troubleshooting routers, switches, firewalls, and network services in home lab environments. Strong understanding of network access, IP connectivity, network security, and infrastructure fundamentals. Skilled in problem-solving, technical troubleshooting, and adapting to new technologies. Eager to apply technical knowledge and practical skills in an entry-level networking role.
+Computing student with active CompTIA Network+ and Security+ certifications and hands-on experience configuring and troubleshooting routers, switches, firewalls, and network services in home lab environments. Strong understanding of network access, IP connectivity and network security. Skilled in problem-solving, technical troubleshooting, and adapting to new technologies. Eager to apply technical knowledge and practical skills in an entry-level networking role.
 
 ### Certifications
 <div>
