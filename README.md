@@ -1,6 +1,6 @@
 # Hi, I'm Myles
 
-Passionate about designing, configuring, and troubleshooting modern network infrastructures. I use this GitHub profile to showcase my networking labs, projects, and hands-on work while documenting my continuous learning journey.
+Passionate about designing, configuring, and troubleshooting networks. I use this GitHub profile to showcase my networking labs, projects, and hands-on work while documenting my continuous learning journey.
 
 - Focused on Enterprise Networking
 - Interested in Network Security
