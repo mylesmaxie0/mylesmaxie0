@@ -1,6 +1,5 @@
 # Hi, I'm Myles
 
-## 
 
 Passionate about designing, configuring, troubleshooting, and automating modern network infrastructures. I use this GitHub profile to document networking labs, projects, and automation scripts.
 
