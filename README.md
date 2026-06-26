@@ -1,11 +1,6 @@
 # Hi, I'm Myles
 
-Passionate about designing, configuring, and troubleshooting networks. I use this GitHub profile to showcase my networking labs, projects, and hands-on work while documenting my continuous learning journey.
-
-- Focused on Enterprise Networking
-- Interested in Network Security
-- Building hands-on labs with EVE-NG, GNS3, and Cisco CML
-- Currently studying for the CCNA
+A collection of my IT and networking labs, projects, and technical documentation. This repository highlights hands-on experience with networking, system administration, virtualization, cybersecurity, and infrastructure technologies
 
 ## Connect With Me
 
