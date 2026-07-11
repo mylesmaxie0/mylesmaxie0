@@ -1,6 +1,6 @@
-# Hi, I'm Myles
+Hi, I'm Myles, a Computing student with a strong passion for Network Engineering and a commitment to building a career in the field. I'm continuously developing my technical skills through coursework, hands-on projects, and independent learning, with a focus on networking, infrastructure, and troubleshooting.
 
-A collection of my IT and networking labs, projects, and technical documentation. This repository highlights hands-on experience with networking, system administration, virtualization, cybersecurity, and infrastructure technologies
+I'm currently seeking internship opportunities where I can apply my knowledge, learn from experienced professionals, and gain real-world experience in designing, maintaining, and securing network environments. I enjoy solving technical challenges, collaborating with others, and I'm always looking for opportunities to expand my skills and contribute to a team.
 
 ## Connect With Me
 
