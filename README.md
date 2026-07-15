@@ -11,22 +11,7 @@ I'm a Computing student with a commitment to building a career in Network Enginn
 - **Infrastructure Services**: DHCP, DNS, NAT/PAT, and centralized service deployment
 
 
-## 🛠️ Technical Skills
 
-### Networking Protocols
-![OSPF](https://img.shields.io/badge/OSPF-Multi--Area-blue?style=flat-square)
-![BGP](https://img.shields.io/badge/BGP-eBGP-blue?style=flat-square)
-![RIP](https://img.shields.io/badge/RIP-v2-blue?style=flat-square)
-![STP](https://img.shields.io/badge/STP-Rapid%20PVST+-blue?style=flat-square)
-
-### Network Services
-`DHCP` • `DNS` • `NAT/PAT` • `ACLs` • `VLANs` • `Trunking (802.1Q)` • `VLSM Subnetting`
-
-### Security & Analysis
-`Wireshark` • `Nmap` • `Packet Analysis` • 
-
-### Tools & Platforms
-`Cisco Packet Tracer` • `EVE-NG` • `Cisco Modeling Labs` • `Git/GitHub`
 
 
 ## Connect With Me
