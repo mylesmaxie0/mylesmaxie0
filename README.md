@@ -6,7 +6,7 @@ I'm a Computing student with a commitment to building a career in Network Enginn
 --- 
 
 ## Featured Projects
-### [Multi-Area-OSPF-DHCP]()
+### [Multi-Area-OSPF-DHCP](https://github.com/mylesmaxie0/Multi-Area-OSPF-Network-with-VLANs-ROAS-Centralized-DHCP)
 Multi-area OSPF topology with Area Border Routers (ABRs), Router-on-a-Stick, and centralized DHCP services across 6 VLANs.
 
 ---
