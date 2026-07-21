@@ -3,15 +3,17 @@
 
 I'm a Computing student with a commitment to building a career in Network Enginnering. I'm continuously developing my technical skills through coursework, hands-on projects, and independent learning.
 
-## What I Do
+--- 
 
-- **Network Architecture**: Three-tier hierarchical designs, VLAN segmentation, and high-availability configurations
-- **Security Engineering**: Firewall policies, ACLs, network hardening
-- **Routing & Switching**: OSPF, RIPv2, STP/RSTP, and inter-VLAN routing
-- **Infrastructure Services**: DHCP, DNS, NAT/PAT, and centralized service deployment
+## Featured Projects
+### [Multi-Area-OSPF-DHCP]()
+Multi-area OSPF topology with Area Border Routers (ABRs), Router-on-a-Stick, and centralized DHCP services across 6 VLANs.
 
+---
+## Current Focus
 
-
+- Deepening knowledge in **Network Security** and **Network Automation**.
+- Exploring **SDN (Software-Defined Networking)**.
 
 
 ## Connect With Me
