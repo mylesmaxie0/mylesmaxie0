@@ -1,5 +1,4 @@
 # Hi, I'm Myles
-**Computing Student**
 
 I'm a Computing student with a commitment to building a career in Network Enginnering. I'm continuously developing my technical skills through coursework, hands-on projects, and independent learning.
 
