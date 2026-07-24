@@ -14,7 +14,7 @@ Multi-area OSPF topology with Area Border Routers (ABRs), Router-on-a-Stick, and
 ---
 ## Current Focus
 
-- Exploring **Network Security** and **Network Automation**.
+- Exploring **Network Automation with Python and Ansible**.
 
 
 ## Connect With Me
