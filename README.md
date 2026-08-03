@@ -8,13 +8,11 @@ I'm a Computing student with a commitment to building a career in Network Enginn
 --- 
 
 ## Featured Projects
-### [Multi-Area-OSPF-DHCP](https://github.com/mylesmaxie0/Multi-Area-OSPF-Network-with-VLANs-ROAS-Centralized-DHCP)
-Multi-area OSPF topology with Area Border Routers (ABRs), Router-on-a-Stick, and centralized DHCP services across 6 VLANs.
-
+### [Enterprise Campus Network with High Availability & Dual ISP Connectivity](https://github.com/mylesmaxie0/enterprise-campus-network-ha/tree/main)
+A highly available enterprise campus network built in Cisco Packet Tracer featuring redundant core, edge, and WAN connectivity using HSRP, eBGP, EtherChannel, Rapid PVST+, and NAT/PAT.
+##### Tech Stack: Cisco IOS, eBGP, HSRP, Rapid PVST+, EtherChannel, VLANs, Inter-VLAN Routing, NAT/PAT, DHCP Relay
 ---
-## Current Focus
 
-- Exploring **Network Automation with Python and Ansible**.
 
 
 ## Connect With Me
