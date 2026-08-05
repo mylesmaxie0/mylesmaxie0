@@ -12,8 +12,10 @@ I'm a Computing student with a commitment to building a career in Network Enginn
 A highly available enterprise campus network built in Cisco Packet Tracer featuring redundant core, edge, and WAN connectivity using HSRP, eBGP, EtherChannel, Rapid PVST+, and NAT/PAT.
 ##### Tech Stack: Cisco IOS, eBGP, HSRP, Rapid PVST+, EtherChannel, VLANs, Inter-VLAN Routing, NAT/PAT, DHCP Relay
 ---
-
-
+### [Enterprise Network with Secure DMZ, OSPF & eBGP Connectivity]()
+A secure enterprise network built in Cisco Packet Tracer featuring a dedicated DMZ, dynamic routing, and simulated Internet connectivity using OSPF, eBGP, NAT/PAT, static NAT, and ACLs to protect internal resources while securely publishing public-facing services.
+##### Tech Stack: Cisco IOS, OSPF, eBGP, Layer 3 Switching, Static Routing, NAT/PAT, Static NAT, Access Control Lists (ACLs), DMZ Architecture
+---
 
 ## Connect With Me
 
