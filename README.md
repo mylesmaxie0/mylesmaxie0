@@ -16,6 +16,10 @@ A highly available enterprise campus network built in Cisco Packet Tracer featur
 A secure enterprise network built in Cisco Packet Tracer featuring a dedicated DMZ, dynamic routing, and simulated Internet connectivity using OSPF, eBGP, NAT/PAT, static NAT, and ACLs to protect internal resources while securely publishing public-facing services.
 ##### Tech Stack: Cisco IOS, OSPF, eBGP, Layer 3 Switching, Static Routing, NAT/PAT, Static NAT, Access Control Lists (ACLs), DMZ Architecture
 ---
+### [Networking Labs](https://github.com/mylesmaxie0/Networking-Labs)
+A collection of various networking labs that go over networking concepts.
+
+---
 
 ## Connect With Me
 
