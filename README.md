@@ -10,12 +10,19 @@ I'm a Computing student with a commitment to building a career in Networking. I'
 ## Featured Projects
 ### [Enterprise Campus Network with High Availability & Dual ISP Connectivity](https://github.com/mylesmaxie0/enterprise-campus-network-ha/tree/main)
 A highly available enterprise campus network built in Cisco Packet Tracer featuring redundant core, edge, and WAN connectivity using HSRP, eBGP, EtherChannel, Rapid PVST+, and NAT/PAT.
-##### Tech Stack: Cisco IOS, eBGP, HSRP, Rapid PVST+, EtherChannel, VLANs, Inter-VLAN Routing, NAT/PAT, DHCP Relay
+
 ---
+
 ### [Enterprise Network with Secure DMZ, OSPF & eBGP Connectivity]()
 A secure enterprise network built in Cisco Packet Tracer featuring a dedicated DMZ, dynamic routing, and simulated Internet connectivity using OSPF, eBGP, NAT/PAT, static NAT, and ACLs to protect internal resources while securely publishing public-facing services.
-##### Tech Stack: Cisco IOS, OSPF, eBGP, Layer 3 Switching, Static Routing, NAT/PAT, Static NAT, Access Control Lists (ACLs), DMZ Architecture
+
 ---
+
+### [Network Automation & Configuration Management Lab](https://github.com/mylesmaxie0/Networking-Labs)
+A Cisco CML network automation project using **Ansible, Jinja2, Python, and Netmiko** to automate Cisco IOS configuration, collect device state, back up configurations, and validate network health.
+
+---
+
 ### [Networking Labs](https://github.com/mylesmaxie0/Networking-Labs)
 A collection of various networking labs that go over networking concepts.
 
