@@ -18,7 +18,7 @@ A secure enterprise network built in Cisco Packet Tracer featuring a dedicated D
 
 ---
 
-### [Network Automation & Configuration Management Lab](https://github.com/mylesmaxie0/Networking-Labs)
+### [Network Automation & Configuration Management Lab](https://github.com/mylesmaxie0/network-automation-lab)
 A Cisco CML network automation project using **Ansible, Jinja2, Python, and Netmiko** to automate Cisco IOS configuration, collect device state, back up configurations, and validate network health.
 
 ---
