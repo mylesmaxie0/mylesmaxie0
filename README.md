@@ -8,8 +8,8 @@ I'm a Computing student with a commitment to building a career in Networking. I'
 --- 
 
 ## Featured Projects
-### [Enterprise Campus Network with High Availability & Dual ISP Connectivity](https://github.com/mylesmaxie0/enterprise-campus-network-ha/tree/main)
-A highly available enterprise campus network built in Cisco Packet Tracer featuring redundant core, edge, and WAN connectivity using HSRP, eBGP, EtherChannel, Rapid PVST+, and NAT/PAT.
+### [Multi-Site Enterprise WAN with Site-to-Site IPsec VPN](https://github.com/mylesmaxie0/Multi-Site-Enterprise-WAN-with-Site-to-Site-IPsec-VPN)
+A multi-site enterprise network built in EVE-NG connecting a Headquarters and Branch location through a simulated ISP. The lab uses VLAN segmentation, router-on-a-stick, OSPF, and a site-to-site IPsec VPN to provide secure connectivity between Corporate and Server networks.
 
 ---
 
