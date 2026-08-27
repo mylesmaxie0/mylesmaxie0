@@ -13,20 +13,7 @@ A highly available enterprise campus network built in Cisco Packet Tracer featur
 
 ---
 
-### [Enterprise Network with Secure DMZ, OSPF & eBGP Connectivity]()
-A secure enterprise network built in Cisco Packet Tracer featuring a dedicated DMZ, dynamic routing, and simulated Internet connectivity using OSPF, eBGP, NAT/PAT, static NAT, and ACLs to protect internal resources while securely publishing public-facing services.
 
----
-
-### [Network Automation & Configuration Management Lab](https://github.com/mylesmaxie0/network-automation-lab)
-A Cisco CML network automation project using **Ansible, Jinja2, Python, and Netmiko** to automate Cisco IOS configuration, collect device state, back up configurations, and validate network health.
-
----
-
-### [Networking Labs](https://github.com/mylesmaxie0/Networking-Labs)
-A collection of various networking labs that go over networking concepts.
-
----
 
 ## Connect With Me
 
