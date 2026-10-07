@@ -7,7 +7,6 @@ I’m a Computing student at the University of West Georgia pursuing a career in
 
 ### Currently Working On
 - Network Automation with Python and Ansible
-- Expanding my knowledge of Network Security
 
 ### Connect With Me
 
