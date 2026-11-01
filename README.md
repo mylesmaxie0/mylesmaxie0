@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computing student at the **University of West Georgia** with a passion for network engineering and cybersecurity.
+I'm a Computing student at the **University of West Georgia** with a passion for network engineering.
 
 ## Connect With Me
 
