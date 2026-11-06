@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computing student at the University of West Georgia focused on enterprise networking, automation, and network security.
+I'm a Computing student at the University of West Georgia focused on networking, automation, and network security.
 
 ## Connect With Me
 
